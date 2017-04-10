@@ -2,6 +2,9 @@ body{
   background-color: #81c9ea;
   text-align: center;
 }
+footer > p{
+  pointer-events: none;
+}
 #mallorca:hover {
     fill: #660000;
 }
