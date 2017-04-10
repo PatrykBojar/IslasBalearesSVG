@@ -1,3 +1,6 @@
+body{
+  background-color: #81c9ea;
+}
 #mallorca:hover {
     fill: #660000;
 }
@@ -40,7 +43,7 @@
 
 #mallorcaTxt {
     display: none;
-}
+  }
 
 #cabreraTxt {
     display: none;
